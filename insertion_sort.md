@@ -23,5 +23,12 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 
 Average case: Aradığımız sayının ortada olması
 ---------
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
+[7,3,5,8,2,9,4,15,6]
+[7,3,5,8,2,9,4,6,15]
+[7,3,5,8,2,6,4,9,15]
+[7,3,5,4,2,6,8,9,15]
+[6,3,5,4,2,7,8,9,15]
+...
 
